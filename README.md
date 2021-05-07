@@ -1,0 +1,2 @@
+# MIS-376-Project-Covid-19-The-Effects-of-Virus-on-the-Society
+Aim of my projects is explaining about the effects of the virus on society. The negative effects of the virus are getting worse day-by-day. I will explain about the society's economic situations and how these situations affects the people's life habits.  Because of our subject is recent topic I am not sure to find enough data but I am planning to use statistical institution datas and also recent researchs which have made during the pandemic.
