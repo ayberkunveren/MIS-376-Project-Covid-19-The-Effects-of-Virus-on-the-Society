@@ -18,7 +18,7 @@ I would like to explain what I will do in my own work after these serious result
 
 ## *The Visualization Tool*
 
-I prefer to use “Datawrapper” tool. I prefer that tool because it is easy to use and also free tool. 
+I prefer to use “Visme” site. I prefer that tool because it is easy to use and also free tool. 
 
 ## *Data Gathering and Challenges*
 
