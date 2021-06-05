@@ -22,7 +22,7 @@ I prefer to use “Visme” site. I prefer that tool because it is easy to use a
 
 ## *Data Gathering and Challenges*
 
-In data gathering process I will use some researchs from world and Turkey. I have faced with some problems because the economic problems also includes some political issues. I thought that I can use statistical institution datas but the datas I need are 2008 datas. That is why I have to use the up-to-date researchs to find datas.
+In data gathering process I will use some researchs from world and Turkey. I have faced with some problems because the economic problems also includes some political issues. I thought that I can use statistical institution datas but their last data sharing was from 2008. That is why I have to use the up-to-date researchs or articles to find datas.
 
 ## *References*
 
