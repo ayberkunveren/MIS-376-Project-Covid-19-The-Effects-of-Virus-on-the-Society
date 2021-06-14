@@ -16,7 +16,7 @@ I would like to explain what I will do in my own work after these serious result
 
 ## *Step B: Information About Data*
 
-## *The Visualization Tool*
+## *The Visualization Tool:*
 
 I prefer to use “Visme” site. I prefer that tool because it is easy to use and also free tool. 
 
