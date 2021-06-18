@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## *Step A: Problem Description*
 
-Corona virus, which first came to Turkey on March 10, 2019, seriously damaged major sectors in the country. These are: health, economy, employment, tourism etc. However, on the basis of all of them, the damage to the economy both to the world and to our country has actually been the main reason for other sectors to be interrupted. For example, the economic downturn has caused many companies to fire their employees, take unpaid leaves or make various cuts.
+Corona virus, which first came to Turkey on March 10, 2020, seriously damaged major sectors in the country. These are: health, economy, employment, tourism etc. However, on the basis of all of them, the damage to the economy both to the world and to our country has actually been the main reason for other sectors to be interrupted. For example, the economic downturn has caused many companies to fire their employees, take unpaid leaves or make various cuts.
 
 The biggest repercussions of the economic problems were felt by smaller investors who trying to run their own business. Among these: cafe, restaurant, pub, game room owners can be considered. The main reason why the smaller businesses of the type I mentioned are so affected is that the customer must be physically present and the expenditure must be direct. However, the fact that such places had to be closed in line with the measures taken during the pandemic process affected them much more negatively in terms of business.
 
