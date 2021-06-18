@@ -1,5 +1,8 @@
 # MIS-376-Project-Covid-19-The-Effects-of-Virus-on-the-Society
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Presentation Video Link:
+https://drive.google.com/file/d/1rQmZGQUPCBUAa07R8y6Dnufkseh_Dwp2/view?usp=sharing
+
 ## *Step A: Problem Description*
 
 Corona virus, which first came to Turkey on March 10, 2020, seriously damaged major sectors in the country. These are: health, economy, employment, tourism etc. However, on the basis of all of them, the damage to the economy both to the world and to our country has actually been the main reason for other sectors to be interrupted. For example, the economic downturn has caused many companies to fire their employees, take unpaid leaves or make various cuts.
